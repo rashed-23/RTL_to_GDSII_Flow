@@ -1,24 +1,6 @@
 # ibex RISC-V Core — RTL Synthesis on Sky130A
 
-> Prepared by: Md. Rashedul Islam | PD Tasks Team
-
 End-to-end RTL synthesis flow for the [lowRISC ibex](https://github.com/lowRISC/ibex) RISC-V core targeting the **Sky130A PDK** using **OpenLane**. Covers baseline synthesis, sv2v conversion, multi-run configuration tuning, and a cross-design comparison against GPU, TPU, and NPU cores on the same PDK.
-
----
-
-## Badges
-
-![rtl-synthesis](https://img.shields.io/badge/rtl--synthesis-00D4AA?style=flat-square)
-![openlane](https://img.shields.io/badge/openlane-00D4AA?style=flat-square)
-![sky130A](https://img.shields.io/badge/sky130A-3B82F6?style=flat-square)
-![sky130__fd__sc__hd](https://img.shields.io/badge/sky130__fd__sc__hd-3B82F6?style=flat-square)
-![risc-v](https://img.shields.io/badge/risc--v-F59E0B?style=flat-square)
-![ibex](https://img.shields.io/badge/ibex-F59E0B?style=flat-square)
-![yosys](https://img.shields.io/badge/yosys-EF4444?style=flat-square)
-![sv2v](https://img.shields.io/badge/sv2v-EF4444?style=flat-square)
-![physical-design](https://img.shields.io/badge/physical--design-8B5CF6?style=flat-square)
-
----
 
 ## Design Summary
 
